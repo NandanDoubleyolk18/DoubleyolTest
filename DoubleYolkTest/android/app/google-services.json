@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "593526990727",
+    "project_id": "testapplication-bd012",
+    "storage_bucket": "testapplication-bd012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593526990727:android:d7abb56240078bc8819522",
+        "android_client_info": {
+          "package_name": "com.testapp.doubleyolk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593526990727-593a8em4aubuaimumb04qbc148faeck4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpUYI7Q1iPMojkTtONkCfgt5iXiNk1UIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593526990727-593a8em4aubuaimumb04qbc148faeck4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593526990727-d2hrcgd55r5i9gcrl52tpk7gh0scicfk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.testapp.doubleyolk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
